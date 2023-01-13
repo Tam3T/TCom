@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCom", "TCom\TCom.csproj", "{BEB95C19-D4C2-473D-9264-D9E487CB1374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEB95C19-D4C2-473D-9264-D9E487CB1374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB95C19-D4C2-473D-9264-D9E487CB1374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB95C19-D4C2-473D-9264-D9E487CB1374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB95C19-D4C2-473D-9264-D9E487CB1374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ED22D0B-9037-42AB-B1BF-6D98F8CFEE34}
+	EndGlobalSection
+EndGlobal
